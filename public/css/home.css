@@ -1,0 +1,204 @@
+.j1{
+    margin-top: 50px;
+    background-image: url("https://jfwonline.com/wp-content/uploads/2017/05/japan-copy.jpg"); 
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 80vh;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: black;
+  text-align: center;
+}
+h1, h3{
+    color: white;
+}
+
+.tgi{
+  text-decoration: underline;
+}
+
+.jpn{
+  font-size: 20px !important;
+}
+
+.modal {
+  top: 20% !important;
+}
+
+.modal-title{
+  color: white !important;
+}
+
+.modal-header{
+  background-image: linear-gradient(to bottom right, #ffbeb0, #feb460);
+}
+
+    /*Moto G4 / Galaxy S5*/
+@media screen and (device-width: 360px) and (orientation:portrait) {
+
+  .j1{
+    background-position: center !important;
+
+  }
+  
+   
+   h1{
+    font-size: 25px !important;
+   }
+
+   h3{
+    font-size: 18px !important;
+   }
+
+}
+
+
+    /*Pixel 2 / Pixel 2 XL*/
+@media screen and (device-width: 411px) and (orientation:portrait) {
+
+  .j1{
+    background-position: center !important;
+   
+  }
+  
+   
+   h1{
+    font-size: 29px !important;
+   }
+
+   h3{
+    font-size: 20px !important;
+   }
+
+}
+
+
+   /*Iphone 5*/
+@media screen and (device-width: 320px) and (orientation:portrait) {
+
+  .j1{
+    background-position: center !important;
+   
+  }
+    
+   h1{
+    font-size: 23px !important;
+   }
+
+   h3{
+    font-size: 15px !important;
+   }
+
+}
+
+
+    /* iPhone 6/7/8 / iPhone X*/
+@media screen and (device-width: 375px) and (orientation:portrait) {
+
+  .j1{
+    background-position: center !important;
+   
+  }
+  
+   
+   h1{
+    font-size: 29px !important;
+   }
+
+   h3{
+    font-size: 20px !important;
+   }
+
+}
+
+    /* iPhone 6/7/8 Plus / iPhone X*/
+@media screen and (device-width: 414px) and (orientation:portrait) {
+
+  .j1{
+    background-position: center !important;
+   
+  }
+  
+   
+   h1{
+    font-size: 29px !important;
+   }
+
+   h3{
+    font-size: 20px !important;
+   }
+
+}
+
+    /* iPad*/
+@media screen and (device-width: 768px) and (orientation:portrait) {
+
+  .j1{
+    background-position: center !important;
+   
+  }
+  
+}
+
+    /* iPad Pro*/
+@media screen and (device-width: 1024px) and (orientation:portrait) {
+
+  .j1{
+    background-position: center !important;
+   
+  }
+
+  h1{
+    font-size: 50px !important;
+   }
+
+   h3{
+    font-size: 40px !important;
+   }
+  
+}
+
+    /* Surface Duo*/
+@media screen and (device-width: 540px) and (orientation:portrait) {
+
+  .j1{
+    background-position: center !important;
+   
+  }
+
+
+   h1{
+    font-size: 30px !important;
+   }
+
+   h3{
+    font-size: 20px !important;
+   }
+  
+}
+
+    /* Galaxy Fold*/
+@media screen and (device-width: 280px) and (orientation:portrait) {
+
+  .j1{
+    background-position: center !important;
+   
+  }
+
+   h1{
+    font-size: 20px !important;
+   }
+
+   h3{
+    font-size: 15px !important;
+   }
+
+   .btn-lg{
+    font-size: 10px !important;
+   }
+  
+}

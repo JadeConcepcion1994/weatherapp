@@ -1,0 +1,29 @@
+.card-header{
+	background-color: white !important;
+}
+
+.temp{
+	font-size: 100px !important;
+}
+
+.badge{
+	font-size: 20px !important;
+	margin-top: -170px !important;
+}
+
+.card-footer{
+	background-color: white !important;
+}
+
+.head-title{
+    margin-top: 20px;
+}
+
+.card-body-weather{
+    background-color: #fff5cb;
+}
+
+#icon_weather{
+    width: 80px !important;
+    height: 80px !important;
+}
